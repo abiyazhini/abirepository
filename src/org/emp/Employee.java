@@ -18,10 +18,10 @@ public class Employee {
 	public void empEmail() {
 		System.out.println("Employee Email: abc@gmail.com");
 	}
-//	public void empLocation() {
-//		System.out.println("Employee Location: Chennai");
-//
-//	}
+	public void empLocation() {
+		System.out.println("Employee Location: Chennai");
+
+	}
 	public void empAddress() {
 		System.out.println("Employee Address: 100, East Street, JKM");
 	}
