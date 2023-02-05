@@ -20,6 +20,8 @@ public class Employee {
 	}
 	
 		
+	
+	c= a+22222;
 	public static void main(String[] args) {
 		Employee emp = new Employee();
 		emp.empId();
@@ -27,7 +29,7 @@ public class Employee {
 		emp.empDob();
 		emp.empPhone();
 		emp.empEmail();
-		emp.empAddress();
+		//emp.empAddress();
 
 	}
 
