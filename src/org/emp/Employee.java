@@ -16,9 +16,10 @@ public class Employee {
 		System.out.println("Employee Phone: 9500705770");
 	}
 	public void empEmail() {
-		System.out.println("Employee Email: abc@gmail.com");
+		System.out.println("Employee : abc@gmail.com");
 	}
 	
+		c=a+b;
 		
 	public static void main(String[] args) {
 		Employee emp = new Employee();
@@ -27,7 +28,7 @@ public class Employee {
 		emp.empDob();
 		emp.empPhone();
 		emp.empEmail();
-		emp.empAddress();
+		//emp.empAddress();
 
 	}
 
