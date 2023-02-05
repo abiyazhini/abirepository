@@ -18,14 +18,7 @@ public class Employee {
 	public void empEmail() {
 		System.out.println("Employee Email: abc@gmail.com");
 	}
-	public void empLocation() {
-		System.out.println("Employee Location: Chennai");
-
-	}
-	private void empSalary() {
-		System.out.println("Employee Salary: 78000");
-
-	}
+	
 	public void empAddress() {
 		System.out.println("Employee Address: 100, East Street, JKM");
 	}
