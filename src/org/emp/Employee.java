@@ -1,7 +1,7 @@
 package org.emp;
 
 public class Employee {
-
+int a=10,b=33,c;
 	public void empId() {
 	System.out.println("Employee ID: 1000");
 	}
@@ -17,11 +17,12 @@ public class Employee {
 	}
 	public void empEmail() {
 		System.out.println("Employee Email: abc@gmail.com");
+		c= a+100;
 	}
 	
 		
 	
-	c= a+22222;
+	
 	public static void main(String[] args) {
 		Employee emp = new Employee();
 		emp.empId();
