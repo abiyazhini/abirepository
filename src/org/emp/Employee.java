@@ -19,10 +19,7 @@ public class Employee {
 		System.out.println("Employee Email: abc@gmail.com");
 	}
 	
-	public void empAddress() {
-		System.out.println("Employee Address: 100, East Street, JKM");
-	}
-	
+		
 	public static void main(String[] args) {
 		Employee emp = new Employee();
 		emp.empId();
