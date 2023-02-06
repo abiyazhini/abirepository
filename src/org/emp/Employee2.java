@@ -20,19 +20,4 @@ public class Employee2 {
 		c=a+b;
 	}
 	
-		
-		
-	
-	
-	public static void main(String[] args) {
-		Employee emp = new Employee();
-		emp.empId();
-		emp.empName();
-		emp.empDob();
-		emp.empPhone();
-		emp.empEmail();
-		//emp.empAddress();
-
-	}
-
 }
